@@ -4,7 +4,8 @@ A high-performance Python script to generate isometric preview images from 3D mo
 
 This tool is ideal for creating consistent, clean, and lightweight thumbnails for 3D model libraries.
 
-![Sample Output Placeholder](https://i.imgur.com/7b7Jg8p.png)
+![Sample Output Placeholder](chess_iso.png)
+
 *(This is a sample image showing the style of output)*
 
 ---
@@ -23,8 +24,8 @@ This tool is ideal for creating consistent, clean, and lightweight thumbnails fo
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone <your-repository-url>
-cd <repository-directory>
+git clone https://github.com/Erfan-is-afk/image-maker.git
+cd image-maker
 ```
 
 ### 2. Install Dependencies
